@@ -7,7 +7,7 @@ I´m fullstack developer focused on Frontend + /UX/UI
 (💼 Stack: JS (Vue.js/Alpine.js/ES6), PHP (Nette), CSS3/SCSS/Tailwind) (😍 rjwebdesign.cz, 200+ projects, 20+ dev years) | Pls:🙈 do not offer React & PHP Backend positions!
 
 * 🌍  I'm based in Prague
-* 🖥️  See my portfolio at [on my personal website](http://https://rjwebdesign.cz/reference)
+* 🖥️  See my portfolio at [on my personal website](https://rjwebdesign.cz/reference)
 * ✉️  You can contact me at [admin@rjwebdesign.cz](mailto:admin@rjwebdesign.cz)
 * 🧠  I'm learning advanced things in Vue.js
 * 🤝  I'm open to collaborating on interesting projects, especially the sports stuff
