@@ -9,7 +9,7 @@ I´m fullstack developer focused on Frontend + /UX/UI
 * 🌍  I'm based in Prague
 * 🖥️  See my portfolio at [on my personal website](http://rjwebdesign.cz)
 * ✉️  You can contact me at [admin@rjwebdesign.cz](mailto:admin@rjwebdesign.cz)
-* 🧠  I'm learning [GSAP animation library](https://gsap.com/) & advanced things / approaches in Vue.js & discovering Nuxt.js
+* 🧠  I'm learning [GSAP animation library](https://gsap.com/) & advanced things / approaches in Vue.js & discovering [Nuxt.js](https://nuxt.com/)
 * 🤝  I'm open to collaborating on interesting projects, especially the sports stuff
 
 <a href="https://www.github.com/Kcko" target="_blank" rel="noreferrer"><img
