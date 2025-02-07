@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I´m fullstack developer focused on Frontend + /UX/UI
 ----------------------------------------------------
 
-(💼 Stack: JS (Vue.js/Alpine.js/ES6), PHP (Nette), CSS3/SCSS/Tailwind) (😍 rjwebdesign.cz, 200+ projects, 20+ dev years) | Pls:🙈 do not offer React & PHP Backend positions!
+(💼 Stack: JS/TS (Vue.js / Nuxt.js / Alpine.js / ES6, GSAP), PHP (Nette), MySQL 8+, Supabase, SCSS / Tailwindcssd) (😍 rjwebdesign.cz, 200+ projects, 20+ dev years) | Pls:🙈 do not offer React & PHP Backend positions!
 
 * 🌍  I'm based in Prague
 * 🖥️  See my portfolio at [on my personal website](http://rjwebdesign.cz)
